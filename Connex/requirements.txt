@@ -1,0 +1,7 @@
+```txt
+cryptography
+sounddevice
+scipy
+pillow
+pyaudio
+tk
